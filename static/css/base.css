@@ -50,11 +50,15 @@ body {
 }
 
 .text-black {
-  color: #000 !important;
+  color: #000;
 }
 
 .border-black {
-  border: 1px solid black !important;
+  border: 1px solid black;
+}
+
+.bg-black {
+  background-color: #000;
 }
 
 /* -------------------------------- Media Queries */
