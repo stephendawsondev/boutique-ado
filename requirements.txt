@@ -20,7 +20,7 @@ dj3-cloudinary-storage==0.0.6
 Django==3.2.22
 django-allauth==0.41.0
 django-cloudinary-storage==0.3.0
-django-countries==7.5.1
+django-countries==7.2.1
 django-crispy-forms==1.14.0
 django-extensions==3.2.3
 django-summernote==0.8.20.0
@@ -73,6 +73,7 @@ rsa==4.9
 six @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
 SQLAlchemy==1.4.46
 sqlparse==0.4.4
+stripe==7.12.0
 tomli==2.0.1
 tomlkit==0.12.2
 typing_extensions==4.8.0
