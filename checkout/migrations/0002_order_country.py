@@ -14,7 +14,8 @@ class Migration(migrations.Migration):
         migrations.AddField(
             model_name='order',
             name='country',
-            field=django_countries.fields.CountryField(default='Ireland', max_length=2),
+            field=django_countries.fields.CountryField(
+                default='IE', max_length=2),
             preserve_default=False,
         ),
     ]
