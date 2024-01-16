@@ -4,6 +4,8 @@ astroid==3.0.1
 autopep8==2.0.2
 bleach==6.1.0
 blinker==1.6.2
+boto3==1.34.19
+botocore==1.34.19
 cachetools==5.3.1
 certifi==2023.5.7
 cffi==1.16.0
@@ -23,6 +25,7 @@ django-cloudinary-storage==0.3.0
 django-countries==7.2.1
 django-crispy-forms==1.14.0
 django-extensions==3.2.3
+django-storages==1.14.2
 django-summernote==0.8.20.0
 django-widget-tweaks==1.5.0
 Flask==2.3.3
@@ -44,6 +47,7 @@ importlib-metadata==6.8.0
 isort==5.12.0
 itsdangerous==2.1.2
 Jinja2==3.1.2
+jmespath==1.0.1
 macholib
 MarkupSafe==2.1.3
 mccabe==0.7.0
@@ -64,12 +68,14 @@ pylint==3.0.2
 pylint-django==2.5.5
 pylint-plugin-utils==0.8.2
 pyparsing==3.1.0
+python-dateutil==2.8.2
 python-dotenv==1.0.0
 python3-openid==3.2.0
 pytz==2023.3.post1
 requests==2.31.0
 requests-oauthlib==1.3.1
 rsa==4.9
+s3transfer==0.10.0
 six
 SQLAlchemy==1.4.46
 sqlparse==0.4.4
