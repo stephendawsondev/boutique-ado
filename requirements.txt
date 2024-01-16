@@ -1,4 +1,4 @@
-altgraph @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+altgraph
 asgiref==3.7.2
 astroid==3.0.1
 autopep8==2.0.2
@@ -27,7 +27,7 @@ django-summernote==0.8.20.0
 django-widget-tweaks==1.5.0
 Flask==2.3.3
 Flask-SQLAlchemy==2.5.1
-future @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+future
 google-api-core==2.11.1
 google-api-python-client==2.95.0
 google-auth==2.22.0
@@ -44,7 +44,7 @@ importlib-metadata==6.8.0
 isort==5.12.0
 itsdangerous==2.1.2
 Jinja2==3.1.2
-macholib @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+macholib
 MarkupSafe==2.1.3
 mccabe==0.7.0
 oauthlib==3.2.2
@@ -70,7 +70,7 @@ pytz==2023.3.post1
 requests==2.31.0
 requests-oauthlib==1.3.1
 rsa==4.9
-six @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+six
 SQLAlchemy==1.4.46
 sqlparse==0.4.4
 stripe==7.12.0
