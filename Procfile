@@ -1,1 +1,1 @@
-web: node index.js
+web: gunicorn boutique_ado.wsgi:application
